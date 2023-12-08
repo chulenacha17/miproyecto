@@ -1,2 +1,2 @@
-# miproyecto
-proyecto inicial
+este proyecto es una prueva de como crear un repositorio
+
