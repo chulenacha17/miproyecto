@@ -1,0 +1,74 @@
+@import url(file:///C:/Users/cleli/Downloads/cuestionario/htmlcuestionario.html);
+* {
+  box-sizing: border-box;
+  font-family: 'balsamic sans';
+  
+ }
+ 
+ header{
+      text-align: center;
+	  background: #000;
+	  color: #fff;
+	  padding: 10px 0;  
+}
+ .container{
+      max-width: 700px;
+	  margin: auto;
+	  padding: 20ps;
+}
+ section{
+      border: 2px solid #5624d0;
+	  border-radius: 7px;
+	  padding: 10px;
+	  margin: 10px 0;
+}
+ label{
+	 display: block;
+	 padding: 7 px;
+	 border-radius: 7px;
+	 cursor: pointer;
+	 border: 1px deshed #ccc;
+	 margin-botton: 3 px;
+ }
+  label:hover{
+	  background: #cec0fc;
+}
+  button{
+	   width:80%;
+	   display: block;
+	   margin: auto;
+	   padding : 10px;
+	  
+	  background-color: #76d7c8;
+	   border: none;
+	   cursor: pointer;
+	   border-radius: 20px;
+  }
+    button:hover{
+		background: #000;
+		color: #fff;
+	}
+	h2{
+		text-align: center;
+	}
+	 #resultado{
+		 font-size: 30px;
+		 color: darkred;
+	 }
+	  p{
+		  font-family: arial;
+		  font-size: 25px;
+		  
+	  }
+		 
+		
+		
+	  
+	   
+	   
+	 
+	  
+	 
+
+
+ 
